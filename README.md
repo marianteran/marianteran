@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -26,3 +24,4 @@ Here are some ideas to get you started:
 
 <a href="mailto:marianteranf@gmail.com"></a>
 </p>
+
