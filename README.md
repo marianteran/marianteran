@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 <h3 style="text-align: center; color: #8a2be2; font-weight: bold; margin-top: 20px; margin-bottom: 10px;"> 🤝🏻
         CONNECT WITH ME </h3>
-<div style="display: flex; justify-content: center;">
+<p style="display: flex; justify-content: center;">
 
 <a href="https://marianela-teran.web.app/" target="_blank"><img src="./pweb.gif" alt="pagina web"
                 style="width: 80px; margin-right: 40px;"></a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <a href="mailto:marianteranf@gmail.com" target="_blank"><img src="./gmail.gif" alt="gmail"
                 style="width: 100px; margin-right: 40px;"></a>
-</div>
+</p>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
