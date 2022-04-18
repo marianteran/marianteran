@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> 🤝🏻 Connect with Me </h3>
+ 
 
-<p align="center">
-<img src="./pweb.gif" alt="pagina web">
-<a href="https://marianela-teran.web.app/" target="_blank"></a>
-  
-<a href="https://www.linkedin.com/in/marianelaTeran" target="_blank"></a>
+<div style="text-align: center;">
+ <h3 style="text-align: center; color: blueviolet; font-weight: bold; margin-top: 20px; margin-bottom: 10px;"> 🤝🏻 CONNECT WITH ME  </h3>
 
-<a href="mailto:marianteranf@gmail.com"></a>
-</p>
+<a href="https://marianela-teran.web.app/" target="_blank"><img src="./pweb.gif" alt="pagina web"
+                style="width: 80px; margin-right: 20px;"></a>
+
+<a href="https://www.linkedin.com/in/marianelaTeran" target="_blank"><img src="./linkedin.gif" alt="linkedin"
+                style="width: 100px; margin-right: 20px;"></a>
+
+<a href="mailto:marianteranf@gmail.com" target="_blank"><img src="./gmail.gif" alt="gmail" style="width: 100px; margin-right: 20px;">
+        </a>
+</div
 
