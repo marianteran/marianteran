@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/marianelaTeran" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/linkedin.gif?raw=true" alt="linkedin"style="width: 100px; margin-right: 40px;"></a>
 
 <a href="mailto:marianteranf@gmail.com" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/gmail.gif?raw=true" alt="gmail"style="width: 100px; margin-right: 40px;"></a>
-</p>
+</p> 
