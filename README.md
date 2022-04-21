@@ -14,10 +14,17 @@ me exijo a seguir avanzando y crecer en este mundo
 <a href="https://www.linkedin.com/in/marianelaTeran" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="linkedin"style="width: 100px; margin-right: 40px;"></a>
 
 <a href="mailto:marianteranf@gmail.com" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="gmail"style="width: 100px; margin-right: 40px;"></a>
-</div> 
+
 </p> 
 
 
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/thairy-daza" target="blank"><img align="center" src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/marianteran/marianteran/blob/main/assets/gmail.gif?raw=true" alt="gmail" height="30" width="30" /></a>  
+<a href="mailto:thairydaza@gmail.com" target="blank"><img align="center" src="https://github.com/marianteran/marianteran/blob/main/assets/linkedin.gif?raw=true" alt="gmail" height="30" width="30" /></a>  
+</p>
 
 ## 🛠 Skills
 
