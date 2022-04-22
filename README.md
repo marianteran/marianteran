@@ -23,8 +23,9 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a> 
 </p>  
-## ⚙ Framework, Libraries and tools 
- <p>
+
+## ⚙ Framework, Libraries and tools
+<p>
 <a href="https://getbootstrap.com" target="_blank" style="margin-right:50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" alt="bootstrap" width="50" height="50" /> </a> 
 <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="50" height="50" style="margin-right:100px;" /> </a>
 <a href="https://reactjs.org/" target="_blank" style="margin-right:50px;"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> </a>
