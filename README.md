@@ -3,7 +3,10 @@
 
 <p align="center">Developer passionate about the front end and its technologies</p> 
 
-<h4 style="text-align: center; font-weight: bold; margin-top: 20px; margin-bottom: 10px;"> 🤝🏻CONNECT WITH ME </h4>
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+
+### 📬 Find me at
 
 <p align="left">
 <a href="https://marianela-teran.web.app/" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="pagina web" style="width: 80px; margin-right: 50px;"></a>
