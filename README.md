@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Marianela 😎
 
 
-## 🚀 developer passionate about the front end and its technologies
+## developer passionate about the front end and its technologies
 
 <h3 style="text-align: center; font-weight: bold; margin-top: 20px; margin-bottom: 10px;"> 🤝🏻CONNECT WITH ME </h3>
 
