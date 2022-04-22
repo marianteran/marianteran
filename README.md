@@ -3,7 +3,7 @@
 
 developer passionate about the front end and its technologies
 
-<h3 style="text-align: center; font-weight: bold; margin-top: 20px; margin-bottom: 10px;"> 🤝🏻CONNECT WITH ME </h3>
+<h5 style="text-align: center; font-weight: bold; margin-top: 20px; margin-bottom: 10px;"> 🤝🏻CONNECT WITH ME </h5>
 
 <p align="left">
 <a href="https://marianela-teran.web.app/" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="pagina web" style="width: 80px; margin-right: 50px;"></a>
