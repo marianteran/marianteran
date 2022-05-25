@@ -9,9 +9,9 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 ### 📬 Find me at
 
 <p>
-<a href="https://marianela-teran.web.app/" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="pagina web" width="50" height="50" style="margin-right:100px;"></a>
-<a href="https://www.linkedin.com/in/marianelaTeran" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/linkedin.gif?raw=true" alt="linkedin"width="50" height="50" style="margin-right:100px;"></a>
-<a href="mailto:marianteranf@gmail.com" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/gmail.gif?raw=true" alt="gmail"width="50" height="50" style="margin-right:100px;"></a>
+<a href="https://marianela-teran.web.app/" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/pweb.gif?raw=true" alt="pagina web" width="80" height="80" style="margin-right:100px;"></a>
+<a href="https://www.linkedin.com/in/marianelaTeran" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/linkedin.gif?raw=true" alt="linkedin" width="80" height="80 style="margin-right:100px;"></a>
+<a href="mailto:marianteranf@gmail.com" target="_blank"><img src="https://github.com/marianteran/marianteran/blob/main/assets/gmail.gif?raw=true" alt="gmail" width="80" height="80 style="margin-right:100px;"></a>
 </p> 
 
 
