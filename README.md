@@ -22,6 +22,10 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 <a href="https://www.w3schools.com/css/" target="_blank" style="margin-right:50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right:50px;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a> 
+<a href="https://nodejs.org/es/docs/" target="_blank" style="margin-right:50px;"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="50" height="50"/>
+</a>
+<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" style="margin-right:50px;"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="50" height="50"/>
+</a>
 </p>  
 
 ### ⚙ Framework, Libraries and tools
